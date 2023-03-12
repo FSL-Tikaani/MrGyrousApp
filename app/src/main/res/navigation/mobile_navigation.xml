@@ -28,4 +28,29 @@
         android:name="com.example.shaurmaapp.ui.about_us.AboutUsFragment"
         android:label="@string/title_about_us"
         tools:layout="@layout/fragment_about_us" />
+
+    <fragment
+        android:id="@+id/navigation_profile_user_data"
+        android:name="com.example.shaurmaapp.ui.profile.user_data.ProfileUserDataFragment"
+        android:label="@string/title_profile_user_data"
+        tools:layout="@layout/fragment_profile_user_data" />
+
+    <fragment
+        android:id="@+id/navigation_profile_addresses"
+        android:name="com.example.shaurmaapp.ui.profile.addresses.ProfileAddressesFragment"
+        android:label="@string/title_profile_addresses"
+        tools:layout="@layout/fragment_profile_addresses" />
+
+    <fragment
+        android:id="@+id/navigation_profile_orders"
+        android:name="com.example.shaurmaapp.ui.profile.orders.ProfileOrdersFragment"
+        android:label="@string/title_profile_orders"
+        tools:layout="@layout/fragment_profile_orders" />
+
+    <fragment
+        android:id="@+id/navigation_profile_payments"
+        android:name="com.example.shaurmaapp.ui.profile.payments.ProfilePaymentsFragment"
+        android:label="@string/title_profile_payments"
+        tools:layout="@layout/fragment_profile_payments" />
+
 </navigation>

@@ -1,5 +1,6 @@
 package com.example.shaurmaapp.data.api
 
+import com.example.shaurmaapp.data.local_storage.ProfileSettingsStorage
 import com.example.shaurmaapp.data.models.StockModel
 
 class API {
@@ -14,5 +15,7 @@ class API {
 
             return arrStocks
         }
+
+        fun getProfileSettings() = ProfileSettingsStorage.getDataList()
     }
 }
