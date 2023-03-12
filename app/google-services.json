@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213542463082",
+    "project_id": "shaurmaapp-f737d",
+    "storage_bucket": "shaurmaapp-f737d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213542463082:android:12b03248848b5247da4c13",
+        "android_client_info": {
+          "package_name": "com.example.shaurmaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213542463082-9gg5gcfdhrte6tc7gndu8288srg2lrjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUv1p0T8fG6cF4VGeKyNdaEFS8BeE6CIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213542463082-9gg5gcfdhrte6tc7gndu8288srg2lrjl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
